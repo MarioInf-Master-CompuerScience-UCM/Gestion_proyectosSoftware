@@ -1,0 +1,31 @@
+Actualización 09/10/2022:
+
+El trabajo entregado cumple con lo que se ha pedido, es válido para el proyecto de aplicación y dará mucho juego.
+
+La presentación realizada en clase fue correcta.
+
+Sin embargo, hay un problema importante con el planteamiento en fases:
+
+Fase 1: Gestión de compras
+
+Fase 2: Gestión de comercios y productos
+
+Fase 3: Gestión de publicaciones 
+
+Fase 4: Gestión de cuentas de usuario
+
+Fase 5: Gestión de feedback
+
+Me resulta difícil concebir una gestión de compras sin una gestión mínima de cuentas de usuario o de comercios y productos.
+
+Esto necesita ser replanteado, para establecer un PMV (fase 1), usable y que aporte valor desde el principio.
+
+----------------------------------------------
+
+La Cesta Verde:
+
+Muy interesante. Le veo potencial.
+
+Las fases propuestas, no aportan valor hasta la fase 4, darle una vuelta. Si bien es cierto que esto se permite, cuando lanzamos un producto nuevo, lo mejor es que las primeras fases nos digan si la idea es buena o no, antes de seguir invirtiendo tiempo y recursos. Por tanto, habría que reordenar las fases.
+
+Muy interesante también el tema de la trazabilidad del producto. Y si pudiéramos contactar clientes directamente con agricutores o productores.....sería muy potente.

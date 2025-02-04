@@ -1,0 +1,13 @@
+Os anexo documento pdf del Plan de Gestión con algunos comentarios.
+
+Adicionalmente:
+
+- la interfaz con la interfaz de pago, exige algún criterio de aceptación más. Recordar además identificar a esos interesados con los que hay que interactuar (otros sistemas).
+
+- hay muchos requisitos con únicamente 1 o 2 criterios de aceptación (denota cansancio,  y lo entiendo), pero hay que enriquecer un poco más la especificación de cada User Story. Tres criterios de aceptación me parecería normal a estas alturas de la asignatura. Estáis muy cerca, ánimo.
+
+- ¿puede reducirse aún más el PMV? Creo que ha quedado muy grande, aunque no se me ocurre a priori qué cosas pueden quitarse (quizás las opciones de eliminación).
+
+- en el documento de User Stories, que se vea la misma estructura que en el WBS (se ha saltado una "capa" en el índice del documento).
+
+- WBS y resto, me parecen bien de momento.

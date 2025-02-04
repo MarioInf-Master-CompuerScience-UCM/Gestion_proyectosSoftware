@@ -1,0 +1,97 @@
+Cuando realizamos la gestión del alcance con el objetivo de generar la línea base del alcance, emplearemos sobre todo los procesoso de los 
+grupos de procesos de planificación y monitorizacion y control.
+
+El plan de gestion del alcance se basa en pensar como vamos a obtener todos los requisitos necesarios para el desarrollo del proyecto.
+El plan de gestion de los requisitos se basa en, una vez obtenidos todos los requisitos, como tratarlos, analizarlos, priorizarlos y gestionarlos.
+Ambos planes se apoyan entre si a lo largo del desarrollo del proyecto para la correcta gestion de todo lo relacionados a los requisitos.
+
+
+La matriz de trazabilidad de requisitos es un DOCUMENTO constituido por una matríz que aporta, por cada requisito, información relevante al mismo.
+Se trata de un socumento opcional y cada jefe de proyecto puede decidir si es necesario crearlo o no y su importancia.
+
+Un requisitos es la necesidad d eun interesado relacionada con el mismo.
+Los requisitos que componene el proyecto debe entar a corde con la funcionalidad a desarrollar en el mismo. No se deben aceptar requisitos
+no relacionados con el acta de negocio del proyecto ni con los objetivos a abarcar por el mismo.
+
+Criterios para requisitos.
+	+ No puede haber requisitos que se contradigan entre sí.
+	+ No se pueden recoger requisitos que soliciten una funcionaldiad duplicada en el proyecto.
+	+ El requisito no puede ser ambiguo, tienne que tene runa sola representación.
+	+ El requisito tiene que tener relacion con al menos uno d elos objetivos del proyecto.
+	+
+	
+Tipos de requisitos:
+	+ Funcionales.
+	+ Usabilidad (no definen la funcionalidad, sino la forma de interaccioanr con al misma, es decir, el uso por parte del usuario).
+	+ No funcionales: Seguridad, escalabilidad, rendimiento, disponibilidad.
+
+Los criterios de aceptación nos indican cuando un requisito ha sido habarcado correctamente durante el desarrollo.
+
+La documentación de requisitos funcionales la haremos mediante User Stories. Un requisito funcional tiene dos partes:
+	+ Descripción de requisitos.
+	+ Criterios de aceptación
+	
+	
+	
+TECNICAS DE RECOLECCION DE REQUISITOS
+=======================================
+
+Los requistos los podemos obtener de dos sitios:
+	+ El acta de constitución de proyecto. Especifica requisitos a alta nivel.
+	+ Registro de interesados. Los interesados especifican aquellos que quieren que se desarrolle.
+
+El equipo del proyecto debe proponer alternativas para desarrollar o como abarcar los requisitos obtenidos. 
+Una vez hemos recogido los requisitos, tendremos claro varios elementos sobre el proyecto.
+
+
+
+Work Breakdown Structures (WBS)
+=================================
+
+Metodología de trabajo basada en dividir el alcance del proyecto en partes más pequeña. El resultado de la fragmentación es un conjunto de secciones organizadas en
+forma de arbol, cuyas hojas son entregables denominados paquetes de trabajo.
+
+REGLA DEL 100%: Todos aquellos entregables que no formen parte del WBS no forman parte del proyecto. 
+REGRA DEL 8/80: Todos los paquetes de trabajo deben abarcarse entre 1 y 10 jornadas.
+
+Un WBS no contiene fechas, únicamente identifica una sección de trabajo.
+
+
+En metodología Agine, el WBS se denomina como User Story Mapping.
+Sirve como una herramienta de comunicación, tanto entre los miembros del equipo como con los interesados externos.
+Los paquetes de trabajo nos serviran para definir una gran cantidad de elementos sobre el desarrollo dle mismo, son la parte central del desarrollo del trabajo.
+
+Se puede desarrollar un diccionario de WBS, el cual es un documento que aporta informacióna cerca de cada paquete de trabajo. Es empleado en ciclos de vida más
+cásicos y no suele ser utilizado.
+
+El WBS define la línea base del alcance en la práctica del día a dia, aunque en teoría esta compuesta por más elementos.
+
+
+USER STORIES
+==============
+
+la descripción del US debe poder abarcarse en una cara de una tarjeta y suele espresarse en el siguiente formato: 
+	As <<user_role>> I want to <<goal>> so that <<benefit>>
+Entendamos que la parte de So that es opcional.
+
+La cara contrapuesta de la tarjeta puede usarse para especificar los criterios de aceptación, enrriqueciendo la especificación del requisito funcional.
+
+La granularidad, dividida en tres niveles distintos, se asocia a cada US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

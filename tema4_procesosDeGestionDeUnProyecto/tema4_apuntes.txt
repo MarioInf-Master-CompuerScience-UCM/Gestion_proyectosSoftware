@@ -1,0 +1,115 @@
+FASE INICIAR
+//***********************************
+
+Antes de iniciar un proyecto debemos llevar a cabo varias cosas importantes:
+
+	1.Realizar un acta de constitución del proyecto, en la cual debemos reconocer los siguientes elementos a alto nivel:
+		Requisitos.
+		Riesgos.
+		Restricciones.
+		Designación del jefe de proyecto.
+		Estalecer objetivos a alcanzar (SMART: Especifico, Medible, Alcanzable, Relevante y Temporal)
+	Una vez se firma el acta de proyecto, se pasa de analizar el proyecto a planificarlo.
+	
+	2.Identificar los interesados del proyecto. Estos interesados pueden sar tanto internos como externos de la empresa y se encuentran
+	  dentro del alcance del proyecto. En base a los interesados del proyecto podremos definir el alzance del mismo.
+	 
+	3.Plasmar el alcance que debe abracar el proyecto en base a lso interesados del mismo.
+	
+	4.Balancear las restricciones necesarias a alto nivel. Esto debe hacerse antes de aprobar el acta de constitución.
+	
+	5.Asegurar las bases de un equipo que pueda desarrollar el proyecto. En base al equipo que tengamos podremos empezar a planificar el
+	  desarrollo del proyecto.
+	
+	6.Plantear o decidir las tecnologias que se pueden utilizar para llevar acabo el proyecto.
+	
+	7.Decidir el ciclo de vida que vamos a utilizar en el proyecto.
+	
+	Cuando terminamos la fase iniciar y antes de empezar la fase planificar de un proyecto debemos tener:
+		El acta de constitución donde se reflejan las característcias del mismo (requisitos de alto nivel, planificaciones, riesgos...)
+		La autoridad sobre el proyecto proyectada en el jefe del mismo.
+		Reconocimiento ante la organización de la existencia del proyecto.
+		El equipo inicial que desarrollara el projecto.
+		El conjunto de normas y procedimiento a seguir para el desarrollo.
+		El ciclo de vida a emplear.
+		La identificaciónd e los interesados.
+	
+
+Los interesados tienen un total de tres atributos a tener en cuenta: Expectativas, Requisitos e influencia.
+
+	+Todos los interados en el proyecto tienen una serie de expectactivas con respecto al proyecto. Estas espectativas las tenemso 
+	que reflejar en los requisitos.
+
+	+Los interesados tienne una serie de requisitos que quieren que cumpla la plicación, los cuales debemos tener en cuenta.
+
+	+Los interesados tienen influencia, de modo que no tartaremos igual a todos los interesados. algunso interesados son más importantes y 
+	demandan más cosas que otros interesados
+	
+Los interesados deben ser identificados en el inicio del proyecto (concretamente en el grupo de proyectos INICIAR) y organizarlos todos en un 
+documento denominado Registro de interesados. Debemos expresar en el mismo las espectativas, el nivel de influencia y las exigencias de los
+mismos.
+
+En el registro de interesado debemos decidir cuales vamos a documentar, no necesitamso documentarlos todos.
+
+Los interesados pueden ayudarnos a liderar el desarrollo del proyecto, encauzandolo hacia un correcto desarrollo del mismo.
+
+EL REGISTRO DE INTERESADOS NO FORMA PARTE DEL PLAN DEL PROYECTO, ES UN DOCUMENTO
+
+
+Documento matriz poder-interes
+
+Poder	| Alto poder			|	
+	| Bajo interes			|
+	| (Mantenerlos satisfechos)	| (Gestionar de cerca)
+	|				|
+	|_____________________________________________
+	|				|
+	| Bajo poder			|
+	| Bajo interes			|
+	| (Monitorizar)			| (Informar con detalle)
+	|
+	|______________________________
+	Interes
+
+
+
+		
+FASE PLANIFICAR
+//***********************************
+En la fase de planificar deberemos realziar las siguientes acciones, las cuales son interactivas entre si, de modo que pueden afectarse y variar:
+
+	1.Definir el alcance con el nivel más alto posible, es decir, definir requisitos de alto nivel.
+	
+	2.Desglosamos las actividades a llevar a cabo durante el desarrollo, establecer entre ellas relaciones de preferencia y definir la 
+	  duración de cada una de ellas.
+	
+	3.Una vez sabemos el alcance podremos decidir que partes del proyecto realziaremos y que partes compraremos
+	
+	4. En base a la duración de las actividades y los recursos de los que disponemos podremos estimar los tiempos de desarrollo del proyecto,
+	 entre otras cosas la fecha de inicio y de fin. Se trata de un proceso iterativo, de modo que los tiempos pueden variar dependiendo de la
+	 duraciones de las actividades y de los recursos con los que contaremos, los cuales pueden variar a lo largo del desarrollo.
+	 
+	5.Podremos estimar el coste del desarrollo del proyecto y de las actividades del mismo en base a:
+		Los recursos de los que podemos disponer durante el desarrollo y el tiempo de las actividades.
+		La medición de la caldiad del producto y como se va a llevar a cabo. La calidad esperada.
+	
+	6.Desarrollaremos el camino crítico, el cual es la sentencia de actividades que deben desarrollarse con mayor urgencia, debido a que un 
+	  retraso en alguna de ellas supone en retraso en todo el proyecto. Las actividades del camino crítico siempre reciben la mayor parte de 
+	  los recuros del mismo.
+	  
+	7.desarrollar un plan de acción en el caso de que se produzacan ciertos problemas durante el desarrollo. Para poder identificar estos
+	  cuando se podrucen estos problemas deberemos poder medirlos. ANTICIPACIÓN
+
+Como resultado de la fase de planificación obtenemos el plan de proyecto, el cual no es un documento de por si, sino la definición de un 
+conjunto de planes. Hacer un plan de implica documentar, unicamente escribimos aquello que va a valer para algo. Se desarrollara un plan por cada
+área de conocimiento, excepto la integración.
+
+La línea base del alcance es el resultado final de la planificación del alcance, llevado a cabo durante la fase de planificación.
+	
+
+
+
+
+
+
+

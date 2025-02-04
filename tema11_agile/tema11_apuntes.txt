@@ -1,0 +1,44 @@
+ROLES:
+	Product Owner: Persona que tiene el conocimiento sobre sobre el producto a realziar.
+	Scrum Master: Es el rol más cercano al Jefe de Proyecto, aunque en SCRUM no existe ducho rol. Su objetivo es remover obstaculos desde el punto de vista 
+		de la meteodología Aguile, haciendo que se apliquen los principios de la misma.
+	Equipo de desarrollo: Equipo autónomo que no debe ser demasiado numeroso y capaz de tomar deciciones propias. Trabajan en un Sping.
+	
+	
+	
+ACTIVIDADES:
+	
+	
+	
+ARTEFACTOS:
+	Los artefactos son elementos con los que se puede trabajar.
+
+	Product Backlog: Conjunto ordenado de requisitos ordenados cuya responsabilidad recae sobre el Product OWner. Los requisistos situados más arriba e realizan
+		antes que los situados mas abajo. El nivel de detalle de los requisitos que se encuentran al principio de la lista es mucho mayor que los que se encuentran
+		al final de la misma.
+		
+		Los requisitos del principio de la lista peuden ser:
+			+Nuevas features a desarrollar.
+			+Modificar features existentes.
+			+Reparar defectos.
+			+Realziar prototipos.
+			+llevar a cabo mejoras técnicas.
+	
+		El backlog dee producto debe refinarse poco a poco, convirtiendo en elementos más definidos aquellos que sean más gruesos.
+		El refinamiento del producto puede realizarse en varios momentos:
+			+hablando con los interesados.
+			+En la reunion inicial.
+			+En talleres para aclarar elementos de los requisitos, los cuales se realizan a lo largo del sping.
+			+En la reunion diaria.
+			+En la reunion final de spring.
+	
+	Spring Backlog: Conjunto de actividades derivadas de los requisitos que se van a crear en el Spring, cuya responsabilidad recae en el Equipo de desarrollo.
+		Incremento de producto con valor: Valor añadido que un spring aporta al producto cuando este finaliza.
+	
+	
+	
+DEFINICIONES:
+	Las definiciones se aplican sobre los requisitos.
+
+	Ready: Un requisito está listo para ser construido.
+	Done: Un requisito se encuentra listo para ser finalizado.

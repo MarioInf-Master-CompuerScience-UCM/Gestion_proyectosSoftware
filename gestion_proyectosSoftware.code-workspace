@@ -1,0 +1,37 @@
+{
+    "folders": [
+        {
+            "path": "planesDeProyecto"
+        },
+        {
+            "path": "proyecto"
+        },
+        {
+            "path": "tema1-2-3_introduccion"
+        },
+        {
+            "path": "tema4_procesosDeGestionDeUnProyecto"
+        },
+        {
+            "path": "tema5_gestionDeLosInteresados"
+        },
+        {
+            "path": "tema6_gestionDelAlcance"
+        },
+        {
+            "path": "tema7_gestionDeLaPlanificacion"
+        },
+        {
+            "path": "tema8_gestionDeLaCalidad"
+        },
+        {
+            "path": "tema9_gestionDelCoste"
+        },
+        {
+            "path": "tema11_agile"
+        },
+        {
+            "path": "."
+        },
+    ]
+}
