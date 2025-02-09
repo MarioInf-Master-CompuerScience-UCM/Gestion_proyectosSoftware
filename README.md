@@ -10,6 +10,11 @@ Agradecimientos a los colaboradores del repositorio:
 - [Alejandro Leal Castaño](https://github.com/alejleal)
 - [José Eduardo Raimundo Fernando](https://github.com/jerfernando54)
 
+Enlaces relevantes:
+
+- [Página web de la titulación](https://informatica.ucm.es/master-en-ingenieria-informatica)
+- [Ficha docente de la asignatura](docs/fichaDocente.pdf)
+
 ## Organización del repositorio
 
 - Contenidos teóricos:
@@ -26,14 +31,7 @@ Agradecimientos a los colaboradores del repositorio:
 - Otros:
   - [Planes de proyecto](planesDeProyecto)
 
-## Información de la asignatura
-
-Enlaces relevantes:
-
-- [Página web de la titulación](https://informatica.ucm.es/master-en-ingenieria-informatica)
-- [Ficha docente de la asignatura](docs/fichaDocente.pdf)
-
-Programa de la asignatura:
+## Programa de la asignatura
 
 1. Introducción a la dirección y gestión de proyectos.
 2. Estándares internacionales de dirección de proyectos.
