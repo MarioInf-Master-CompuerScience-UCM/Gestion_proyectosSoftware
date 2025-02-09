@@ -1,6 +1,14 @@
-# Gestión de proyectos software
+# Dirección y gestión de proyectos software
 
-**_Los presentes contenidos corresponden con la edición del curso 2022-2023_**
+![Idioma: Español](https://img.shields.io/badge/Idioma-Español-green.svg)
+![Idioma: Español](https://img.shields.io/badge/Año_académico-2022/2023-blue.svg)
+![Idioma: Español](https://img.shields.io/badge/Curso_académico-Primer_curso-blue.svg)
+
+Agradecimientos a los colaboradores del repositorio:
+
+- [Bogdan Gabriel Voicila](https://github.com/bgvmad)
+- [Alejandro Leal Castaño](https://github.com/alejleal)
+- [José Eduardo Raimundo Fernando](https://github.com/jerfernando54)
 
 ## Organización del repositorio
 
@@ -41,7 +49,3 @@ Programa de la asignatura:
 12. Gestión de tiempos y costes. Camino crítico y balanceo de recursos.
 13. Gestión de riesgos del proyecto. Identificación, gestión y desarrollo de plan de respuesta.
 14. Control y seguimiento del proyecto.
-
-## Licencia de uso
-
-<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
